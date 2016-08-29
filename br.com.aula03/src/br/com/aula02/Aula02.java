@@ -27,7 +27,7 @@ public class Aula02 {
 		Statement instrucao = null;
 		String consulta = null;
 
-		// Registrar o JDBC driver
+		// Registrar o JDBC driver 
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
 
