@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class Aula02 {
-	// nome do driver JDBC
+	// nome do driver JDBC ***FRED***
 
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 
